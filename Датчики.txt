@@ -1,0 +1,10 @@
+Газ - MQ2
+Дисплей - LCD(I2C) 1604
+Контроллер - ArduinoNano/Arduino Uno/Arduino Mega
+Расширение - Arduino Nano Sensor Shield/BreadBoard
+Свет -  HL-01 Arduino
+Вода - WaterLevelSensor Arduino(красный)
+Влажност почвы - Рогатый
+У.З. сонар - HC-SR04
+Влажность/температура - DHT11
+Огонь - Датчик огня Arduino
